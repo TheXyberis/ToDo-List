@@ -1,3 +1,11 @@
+# ToDo List App
+
+A simple React + Vite project to manage your tasks.
+
+## Live Demo
+Check it out here: [ToDo List App on Vercel](https://to-do-list-jumvj8i7o-mariias-projects-97f9717b.vercel.app/)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
