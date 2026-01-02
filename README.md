@@ -3,7 +3,7 @@
 A simple React + Vite project to manage your tasks.
 
 ## Live Demo
-Check it out here: [ToDo List App on Vercel](https://to-do-list-jumvj8i7o-mariias-projects-97f9717b.vercel.app/)
+Check it out here: [ToDo List App on Vercel](https://to-do-list-rho-red-41.vercel.app/)
 
 
 # React + Vite
